@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eduyam112
-- 👀 I’m interested in gaming and coding...
-- 🌱 I’m currently learning Kotlin...
-- 📫 How to reach me - Email : eduardolbesilva@gmail.com...
+- 👀 I’m interested in gaming and coding
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me - Email : eduardolbesilva@gmail.com
 
 
 <!---
